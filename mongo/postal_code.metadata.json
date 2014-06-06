@@ -1,0 +1,1 @@
+{ "options" : { "create" : "postal_code" }, "indexes" : [ { "v" : 1, "key" : { "_id" : 1 }, "ns" : "geo.postal_code", "name" : "_id_" } ] }

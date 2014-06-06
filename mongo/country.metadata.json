@@ -1,0 +1,1 @@
+{ "options" : { "create" : "country" }, "indexes" : [ { "v" : 1, "key" : { "_id" : 1 }, "ns" : "geo.country", "name" : "_id_" }, { "v" : 1, "key" : { "iso" : 1 }, "ns" : "geo.country", "background" : 1, "name" : "iso" } ] }
