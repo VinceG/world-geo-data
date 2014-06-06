@@ -3,7 +3,7 @@ World GEO Data
 
 GEO data including Country information, Postal Codes, City Names and information, TimeZones. MySQL tables and MongoDB Collections.
 
-This is based of [http://www.geonames.org/] converted into a database structured data.
+This is based of [geonames.org](http://www.geonames.org/) converted into a database structured data.
 
 | Type        | Records  |
 | ------------- | :-----|
